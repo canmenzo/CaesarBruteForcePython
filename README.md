@@ -1,4 +1,4 @@
-# CaesarCipherPython
+# Caesar Cipher encryption and decryption by Bruteforcing with Python
 Caesar cipher encryption and brute-force decryption utilizing Python.
 
 This repository contains two Python scripts for Caesar cipher encryption and decryption.
