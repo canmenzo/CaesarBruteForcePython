@@ -1,4 +1,4 @@
-LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
 
 def encrypt_message(message, key):
     encrypted = ''
@@ -17,6 +17,7 @@ key = int(input("Enter the encryption key (a non-negative integer): "))
 
 # Encrypt the message
 encrypted_message = encrypt_message(message, key)
+print("Encrypted message:", encrypted_message)
 
 # Save the encrypted message to a file
 filename = "encrypted_message.txt"
