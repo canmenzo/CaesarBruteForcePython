@@ -1,4 +1,4 @@
-LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+LETTERS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
 
 # Read the encrypted message from a file
 filename = 'encrypted_message.txt'  # Replace with your file name
